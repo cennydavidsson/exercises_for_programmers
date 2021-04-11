@@ -9,3 +9,7 @@ Icon
 
 # Thumbnails
 ._*
+
+# Haskell
+*.hi
+*.o
